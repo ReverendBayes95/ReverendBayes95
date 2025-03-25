@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Data Scientist
 ---------------------
 
-I am a deeply passionate data scientist who loves solving real world problems with data. With more than 6 years of experience in designing and deploying machine learning solutions within the finance industry, I've developed a deep expertise in building predictive models, leveraging data-driven insights to drive business decisions and Machine learning operations (MLops). I can write industry grade code in Python and Pyspark to develop ML models and data processing pipelines in Databricks while leveraging Spark for distributed computing. Additionally, I use MLflow to track and log my machine learning experiments, ensuring reproducibility and efficiency. I have intermediate level of expertise in creating interactive visualisations and dashboards in powerBI.
+I am a deeply passionate data scientist who loves solving real world problems with data. With more than 6 years of experience in designing and deploying machine learning solutions within the finance industry, I've developed a deep expertise in building predictive models, leveraging data-driven insights to drive business decisions and Machine learning operations (MLops). 
+
+I can write industry grade code in Python and Pyspark to develop ML models and data processing pipelines in Databricks while leveraging Spark for distributed computing. Additionally, I use MLflow to track and log my machine learning experiments, ensuring reproducibility and efficiency. I have intermediate level of expertise in creating interactive visualisations and dashboards in powerBI.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [akshays261095@gmail.com](mailto:akshays261095@gmail.com)
